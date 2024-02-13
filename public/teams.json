@@ -1,0 +1,50 @@
+[
+    {
+        "id": "alpha",
+        "name": "Team Alpha",
+        "coach": "John Doe",
+        "phone": "555-456-7890",
+        "playerCount": 11,
+        "logo": "../assets/alpha-logo.png"
+    },
+    {
+        "id": "bravo",
+        "name": "Team Bravo",
+        "coach": "John Dough",
+        "phone": "555-456-7890",
+        "playerCount": 14,
+        "logo": "../assets/bravo-logo.png"
+    },
+    {
+        "id": "charlie",
+        "name": "Team Charlie",
+        "coach": "Jane Smith",
+        "phone": "555-567-8901",
+        "playerCount": 13,
+        "logo": "../assets/charlie-logo.png"
+    },
+    {
+        "id": "delta",
+        "name": "Team Delta",
+        "coach": "Emily Johnson",
+        "phone": "555-678-9012",
+        "playerCount": 12,
+        "logo": "../assets/delta-logo.png"
+    },
+    {
+        "id": "echo",
+        "name": "Team Echo",
+        "coach": "Michael Brown",
+        "phone": "555-789-0123",
+        "playerCount": 15,
+        "logo": "../assets/echo-logo.png"
+    },
+    {
+        "id": "foxtrot",
+        "name": "Team Foxtrot",
+        "coach": "Sarah Davis",
+        "phone": "555-890-1234",
+        "playerCount": 10,
+        "logo": "../assets/foxtrot-logo.png"
+    }
+]
